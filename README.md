@@ -1,4 +1,4 @@
-Car Resale Value Prediction
+CAR RESALE VALUE PREDICTION
 
 Team id: PNT2022TMID28051
 
